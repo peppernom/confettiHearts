@@ -1,0 +1,9 @@
+## My first app made using the Processing API.
+
+# To run, download both files (confettiHearts.java and core.jar).
+
+# To compile;
+# javac -cp core.jar confettiHearts.java
+
+# To run;
+# java -cp core.jar confettiHearts
